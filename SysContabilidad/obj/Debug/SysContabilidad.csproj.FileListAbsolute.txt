@@ -1,0 +1,16 @@
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\bin\Debug\SysContabilidad.exe.config
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\bin\Debug\SysContabilidad.exe
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\bin\Debug\SysContabilidad.pdb
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\bin\Debug\MySql.Data.DLL
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.csprojAssemblyReference.cache
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.Principal.resources
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.Properties.Resources.resources
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.csproj.GenerateResource.cache
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.csproj.CoreCompileInputs.cache
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.csproj.CopyComplete
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.exe
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.pdb
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.PlanCuentas.resources
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.VerPlanCuenta.resources
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.VerParametros.resources
+C:\Users\Jordy\source\repos\SysContabilidad\SysContabilidad\obj\Debug\SysContabilidad.Login.resources
